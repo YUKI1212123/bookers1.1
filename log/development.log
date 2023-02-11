@@ -1,0 +1,1503 @@
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+[ActionDispatch::HostAuthorization::DefaultResponseApp] Blocked host: 7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com
+Started GET "/" for 175.28.185.97 at 2023-02-04 19:01:13 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.6ms | Allocations: 470)
+Completed 200 OK in 24ms (Views: 12.5ms | ActiveRecord: 0.0ms | Allocations: 3636)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 19:01:15 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.9ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 1101)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:00:13 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.7ms | Allocations: 470)
+Completed 200 OK in 18ms (Views: 9.9ms | ActiveRecord: 0.0ms | Allocations: 3240)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:00:50 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.9ms | Allocations: 268)
+Completed 200 OK in 11ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 1556)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:01:12 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.5ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 1098)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:01:14 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 401)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:02:13 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.1ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 9.1ms | ActiveRecord: 0.0ms | Allocations: 1049)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:02:16 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 45)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 393)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:02:24 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 45)
+Completed 200 OK in 15ms (Views: 14.9ms | ActiveRecord: 0.0ms | Allocations: 347)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:03:57 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.5ms | Allocations: 470)
+Completed 200 OK in 18ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 3231)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:04:02 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.6ms | Allocations: 268)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.0ms | Allocations: 1558)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:04:09 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 401)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-04 20:05:30 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 45)
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 347)
+
+
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (6.8ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (11.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateLists (20230204200757)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (2.1ms)[0m  [1m[35mCREATE TABLE "lists" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "title" varchar, "body" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (2.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20230204200757"]]
+  [1m[36mTRANSACTION (6.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Create (2.8ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2023-02-04 20:11:20.244021"], ["updated_at", "2023-02-04 20:11:20.244021"]]
+  [1m[36mTRANSACTION (5.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 175.28.185.97 at 2023-02-08 22:39:25 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 8.4ms | Allocations: 470)
+Completed 200 OK in 30ms (Views: 16.3ms | ActiveRecord: 0.0ms | Allocations: 3232)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-08 22:39:26 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 8.7ms | Allocations: 265)
+Completed 200 OK in 19ms (Views: 16.1ms | ActiveRecord: 0.0ms | Allocations: 1555)
+
+
+Started GET "/homes/top" for 175.28.185.97 at 2023-02-08 22:39:47 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/homes/top"):
+  
+Started GET "/" for 175.28.185.97 at 2023-02-09 00:31:32 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 11.0ms | Allocations: 470)
+Completed 200 OK in 29ms (Views: 16.7ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 00:31:34 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.9ms | Allocations: 265)
+Completed 200 OK in 11ms (Views: 9.8ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 00:31:48 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 0.8ms | Allocations: 147)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+warning ../../package.json: No license field
+/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:93
+				throw err;
+				^
+
+TypeError: Cannot read properties of undefined (reading 'toWebpackConfig')
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/config/webpack/development.js:5:30)
+    at Module._compile (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:192:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:159:20)
+    at WEBPACK_OPTIONS (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:114:13)
+    at requireConfig (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:116:6)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:123:17
+    at Array.forEach (<anonymous>)
+    at module.exports (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:121:15)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:71:45
+    at Object.parse (/home/ec2-user/environment/sample_app/node_modules/yargs/yargs.js:576:18)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:49:8
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:366:3)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack/bin/webpack.js:156:2)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+  Rendered layout layouts/application.html.erb (Duration: 2872.4ms | Allocations: 18155)
+Completed 500 Internal Server Error in 2877ms (ActiveRecord: 0.0ms | Allocations: 19551)
+
+
+  
+ActionView::Template::Error (Webpacker can't find application.js in /home/ec2-user/environment/sample_app/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/" for 175.28.185.97 at 2023-02-09 02:43:45 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.3ms | Allocations: 470)
+Completed 200 OK in 34ms (Views: 20.5ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 02:43:46 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.3ms | Allocations: 265)
+Completed 200 OK in 15ms (Views: 12.4ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/top" for 175.28.185.97 at 2023-02-09 02:43:51 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomesController#top as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (Duration: 1.4ms | Allocations: 151)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+warning ../../package.json: No license field
+/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:93
+				throw err;
+				^
+
+TypeError: Cannot read properties of undefined (reading 'toWebpackConfig')
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/config/webpack/development.js:5:30)
+    at Module._compile (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:192:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:159:20)
+    at WEBPACK_OPTIONS (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:114:13)
+    at requireConfig (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:116:6)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:123:17
+    at Array.forEach (<anonymous>)
+    at module.exports (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:121:15)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:71:45
+    at Object.parse (/home/ec2-user/environment/sample_app/node_modules/yargs/yargs.js:576:18)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:49:8
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:366:3)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack/bin/webpack.js:156:2)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+  Rendered layout layouts/application.html.erb (Duration: 2617.6ms | Allocations: 7872)
+Completed 500 Internal Server Error in 2626ms (ActiveRecord: 0.0ms | Allocations: 9268)
+
+
+  
+ActionView::Template::Error (Webpacker can't find application.js in /home/ec2-user/environment/sample_app/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/homes/top" for 175.28.185.97 at 2023-02-09 02:44:28 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/homes/top"):
+  
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:07:42 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.4ms | Allocations: 470)
+Completed 200 OK in 27ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:07:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.0ms | Allocations: 265)
+Completed 200 OK in 15ms (Views: 12.1ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:07:49 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 401)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:07:56 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 45)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 346)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:08:24 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 46)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 352)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:08:28 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 352)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:09:19 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.0ms | Allocations: 45)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms | Allocations: 346)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:11:39 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.1ms | Allocations: 470)
+Completed 200 OK in 18ms (Views: 10.0ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:11:42 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.8ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:11:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 401)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:11:46 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 352)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:11:54 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 45)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 346)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:23:04 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.9ms | Allocations: 470)
+Completed 200 OK in 26ms (Views: 14.7ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:23:05 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.3ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 22:23:20 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 1.2ms | Allocations: 147)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+warning ../../package.json: No license field
+/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:93
+				throw err;
+				^
+
+TypeError: Cannot read properties of undefined (reading 'toWebpackConfig')
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/config/webpack/development.js:5:30)
+    at Module._compile (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:192:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:159:20)
+    at WEBPACK_OPTIONS (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:114:13)
+    at requireConfig (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:116:6)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:123:17
+    at Array.forEach (<anonymous>)
+    at module.exports (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:121:15)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:71:45
+    at Object.parse (/home/ec2-user/environment/sample_app/node_modules/yargs/yargs.js:576:18)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:49:8
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:366:3)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack/bin/webpack.js:156:2)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+  Rendered layout layouts/application.html.erb (Duration: 2593.0ms | Allocations: 7873)
+Completed 500 Internal Server Error in 2598ms (ActiveRecord: 0.0ms | Allocations: 9269)
+
+
+  
+ActionView::Template::Error (Webpacker can't find application.js in /home/ec2-user/environment/sample_app/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:23:28 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 48)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 424)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:36:21 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.0ms | Allocations: 470)
+Completed 200 OK in 18ms (Views: 10.1ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:36:23 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 8.7ms | Allocations: 265)
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:36:33 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 401)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:36:36 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 45)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 346)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:42:45 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.9ms | Allocations: 470)
+Completed 200 OK in 18ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:42:46 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.4ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 22:42:54 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 13.3ms | Allocations: 5301)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+warning ../../package.json: No license field
+/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:93
+				throw err;
+				^
+
+TypeError: Cannot read properties of undefined (reading 'toWebpackConfig')
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/config/webpack/development.js:5:30)
+    at Module._compile (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:192:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:159:20)
+    at WEBPACK_OPTIONS (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:114:13)
+    at requireConfig (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:116:6)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:123:17
+    at Array.forEach (<anonymous>)
+    at module.exports (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:121:15)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:71:45
+    at Object.parse (/home/ec2-user/environment/sample_app/node_modules/yargs/yargs.js:576:18)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:49:8
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:366:3)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack/bin/webpack.js:156:2)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+  Rendered layout layouts/application.html.erb (Duration: 1298.1ms | Allocations: 12921)
+Completed 500 Internal Server Error in 1302ms (ActiveRecord: 0.5ms | Allocations: 14317)
+
+
+  
+ActionView::Template::Error (Webpacker can't find application.js in /home/ec2-user/environment/sample_app/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:53:15 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.6ms | Allocations: 470)
+Completed 200 OK in 18ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 22:53:18 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.8ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 22:53:26 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 3.4ms | Allocations: 1408)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+warning ../../package.json: No license field
+/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:93
+				throw err;
+				^
+
+TypeError: Cannot read properties of undefined (reading 'toWebpackConfig')
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/config/webpack/development.js:5:30)
+    at Module._compile (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:192:30)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (/home/ec2-user/environment/sample_app/node_modules/v8-compile-cache/v8-compile-cache.js:159:20)
+    at WEBPACK_OPTIONS (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:114:13)
+    at requireConfig (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:116:6)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:123:17
+    at Array.forEach (<anonymous>)
+    at module.exports (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/utils/convert-argv.js:121:15)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:71:45
+    at Object.parse (/home/ec2-user/environment/sample_app/node_modules/yargs/yargs.js:576:18)
+    at /home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:49:8
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack-cli/bin/cli.js:366:3)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1067:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/home/ec2-user/environment/sample_app/node_modules/webpack/bin/webpack.js:156:2)
+    at Module._compile (node:internal/modules/cjs/loader:1165:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1219:10)
+    at Module.load (node:internal/modules/cjs/loader:1043:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:22:47
+
+  Rendered layout layouts/application.html.erb (Duration: 1285.1ms | Allocations: 9022)
+Completed 500 Internal Server Error in 1296ms (ActiveRecord: 0.5ms | Allocations: 14204)
+
+
+  
+ActionView::Template::Error (Webpacker can't find application.js in /home/ec2-user/environment/sample_app/public/packs/manifest.json. Possible causes:
+1. You want to set webpacker.yml value of compile to true for your environment
+   unless you are using the `webpack -w` or the webpack-dev-server.
+2. webpack has not yet re-run to reflect updates.
+3. You have misconfigured Webpacker's config/webpacker.yml file.
+4. Your webpack configuration is not creating a manifest.
+Your manifest contains:
+{
+}
+):
+     7:     <%= csp_meta_tag %>
+     8: 
+     9:     <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:   </head>
+    12: 
+    13:   <body>
+  
+app/views/layouts/application.html.erb:10
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:01:28 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 23.5ms | Allocations: 470)
+Completed 200 OK in 53ms (Views: 34.5ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:01:31 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 21.6ms | Allocations: 265)
+Completed 200 OK in 27ms (Views: 24.8ms | ActiveRecord: 0.0ms | Allocations: 1104)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 23:01:40 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1408)
+  Rendered layout layouts/application.html.erb (Duration: 26.9ms | Allocations: 5765)
+Completed 200 OK in 44ms (Views: 30.9ms | ActiveRecord: 1.1ms | Allocations: 10960)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 23:01:40 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 1.3ms | Allocations: 430)
+  Rendered layout layouts/application.html.erb (Duration: 8.3ms | Allocations: 1896)
+Completed 200 OK in 14ms (Views: 12.7ms | ActiveRecord: 0.0ms | Allocations: 2415)
+
+
+Started POST "/lists" for 175.28.185.97 at 2023-02-09 23:01:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "list"=>{"title"=>",", "body"=>""}, "commit"=>"投稿"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mList Create (2.8ms)[0m  [1m[32mINSERT INTO "lists" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", ","], ["body", ""], ["created_at", "2023-02-09 23:01:44.015391"], ["updated_at", "2023-02-09 23:01:44.015391"]]
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mTRANSACTION (3.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+Redirected to https://7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com/top
+Completed 302 Found in 25ms (ActiveRecord: 6.4ms | Allocations: 5922)
+
+
+Started GET "/top" for 175.28.185.97 at 2023-02-09 23:01:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomesController#top as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (Duration: 1.2ms | Allocations: 151)
+  Rendered layout layouts/application.html.erb (Duration: 9.1ms | Allocations: 1835)
+Completed 200 OK in 16ms (Views: 13.3ms | ActiveRecord: 0.0ms | Allocations: 3015)
+
+
+Started POST "/lists" for 175.28.185.97 at 2023-02-09 23:01:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "list"=>{"title"=>",", "body"=>""}, "commit"=>"投稿"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mList Create (1.1ms)[0m  [1m[32mINSERT INTO "lists" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", ","], ["body", ""], ["created_at", "2023-02-09 23:01:44.196622"], ["updated_at", "2023-02-09 23:01:44.196622"]]
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mTRANSACTION (4.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+Redirected to https://7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com/top
+Completed 302 Found in 21ms (ActiveRecord: 5.7ms | Allocations: 4880)
+
+
+Started GET "/top" for 175.28.185.97 at 2023-02-09 23:01:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomesController#top as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+  Rendered layout layouts/application.html.erb (Duration: 7.3ms | Allocations: 1503)
+Completed 200 OK in 15ms (Views: 13.2ms | ActiveRecord: 0.0ms | Allocations: 1900)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 23:01:46 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 2.5ms | Allocations: 451)
+  Rendered layout layouts/application.html.erb (Duration: 8.5ms | Allocations: 1915)
+Completed 200 OK in 12ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 2314)
+
+
+Started POST "/lists" for 175.28.185.97 at 2023-02-09 23:02:09 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "list"=>{"title"=>"testq", "body"=>"test1"}, "commit"=>"投稿"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mList Create (1.4ms)[0m  [1m[32mINSERT INTO "lists" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "testq"], ["body", "test1"], ["created_at", "2023-02-09 23:02:10.000717"], ["updated_at", "2023-02-09 23:02:10.000717"]]
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mTRANSACTION (4.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+Redirected to https://7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com/top
+Completed 302 Found in 20ms (ActiveRecord: 5.9ms | Allocations: 4648)
+
+
+Started GET "/top" for 175.28.185.97 at 2023-02-09 23:02:10 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomesController#top as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+  Rendered layout layouts/application.html.erb (Duration: 6.1ms | Allocations: 1503)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 1886)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:12:14 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.9ms | Allocations: 470)
+Completed 200 OK in 25ms (Views: 16.1ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:12:16 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 11.0ms | Allocations: 265)
+Completed 200 OK in 17ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 1219)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 23:12:25 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1205)
+  Rendered layout layouts/application.html.erb (Duration: 31.1ms | Allocations: 5558)
+Completed 200 OK in 44ms (Views: 34.5ms | ActiveRecord: 0.6ms | Allocations: 10817)
+
+
+Started POST "/lists" for 175.28.185.97 at 2023-02-09 23:12:29 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "list"=>{"title"=>"", "body"=>"k\r\n"}, "commit"=>"投稿"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mList Create (2.9ms)[0m  [1m[32mINSERT INTO "lists" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", ""], ["body", "k\r\n"], ["created_at", "2023-02-09 23:12:29.235201"], ["updated_at", "2023-02-09 23:12:29.235201"]]
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mTRANSACTION (3.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+Redirected to https://7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com/top
+Completed 302 Found in 23ms (ActiveRecord: 6.7ms | Allocations: 5786)
+
+
+Started GET "/top" for 175.28.185.97 at 2023-02-09 23:12:29 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by HomesController#top as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering homes/top.html.erb within layouts/application
+  Rendered homes/top.html.erb within layouts/application (Duration: 1.0ms | Allocations: 151)
+  Rendered layout layouts/application.html.erb (Duration: 6.9ms | Allocations: 1845)
+Completed 200 OK in 13ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 3026)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 23:12:30 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 0.7ms | Allocations: 402)
+  Rendered layout layouts/application.html.erb (Duration: 5.9ms | Allocations: 1874)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 2348)
+
+
+Started GET "/lists" for 175.28.185.97 at 2023-02-09 23:12:57 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/index.html.erb within layouts/application
+  [1m[36mList Load (0.5ms)[0m  [1m[34mSELECT "lists".* FROM "lists"[0m
+  ↳ app/views/lists/index.html.erb:3
+  Rendered lists/index.html.erb within layouts/application (Duration: 8.1ms | Allocations: 1499)
+  Rendered layout layouts/application.html.erb (Duration: 13.1ms | Allocations: 2972)
+Completed 200 OK in 18ms (Views: 15.0ms | ActiveRecord: 0.5ms | Allocations: 3536)
+
+
+Started GET "/lists" for 175.28.185.97 at 2023-02-09 23:14:02 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/index.html.erb within layouts/application
+  [1m[36mList Load (8.6ms)[0m  [1m[34mSELECT "lists".* FROM "lists"[0m
+  ↳ app/views/lists/index.html.erb:3
+  Rendered lists/index.html.erb within layouts/application (Duration: 17.1ms | Allocations: 1364)
+  Rendered layout layouts/application.html.erb (Duration: 31.0ms | Allocations: 3181)
+Completed 200 OK in 50ms (Views: 32.6ms | ActiveRecord: 8.6ms | Allocations: 4434)
+
+
+Started GET "/lists" for 175.28.185.97 at 2023-02-09 23:14:04 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/index.html.erb within layouts/application
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists"[0m
+  ↳ app/views/lists/index.html.erb:3
+  Rendered lists/index.html.erb within layouts/application (Duration: 6.0ms | Allocations: 1061)
+  Rendered layout layouts/application.html.erb (Duration: 11.5ms | Allocations: 2527)
+Completed 200 OK in 15ms (Views: 14.0ms | ActiveRecord: 0.1ms | Allocations: 2981)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:14:40 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 15.5ms | Allocations: 470)
+Completed 200 OK in 53ms (Views: 26.0ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:14:42 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.2ms | Allocations: 265)
+Completed 200 OK in 16ms (Views: 13.9ms | ActiveRecord: 0.0ms | Allocations: 2010)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 23:14:47 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 3.3ms | Allocations: 2363)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 2457)
+Completed 500 Internal Server Error in 24ms (ActiveRecord: 0.9ms | Allocations: 7684)
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+    1: <h1>新規投稿</h1>
+    2: <!-- form_with部分 -->
+    3: <% @lists.each do |list| %>
+    4:   <h4>タイトル</h4>
+    5:   <%= f.text_field :title %>
+    6: 
+  
+app/views/lists/new.html.erb:3
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:24:40 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.5ms | Allocations: 470)
+Completed 200 OK in 22ms (Views: 14.0ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:24:41 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 13.1ms | Allocations: 265)
+Completed 200 OK in 28ms (Views: 18.6ms | ActiveRecord: 0.0ms | Allocations: 1219)
+
+
+Started GET "/lists/1" for 175.28.185.97 at 2023-02-09 23:24:54 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/lists/1"):
+  
+Started GET "/" for 175.28.185.97 at 2023-02-09 23:25:45 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 48)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 457)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-09 23:25:53 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+SyntaxError (/home/ec2-user/environment/sample_app/app/controllers/lists_controller.rb:22: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/lists_controller.rb:22: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/lists_controller.rb:22: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/lists_controller.rb:22: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/" for 175.28.185.97 at 2023-02-10 06:56:45 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.1ms | Allocations: 470)
+Completed 200 OK in 27ms (Views: 15.6ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 06:56:46 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.0ms | Allocations: 265)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 1219)
+
+
+Started GET "/lists/1" for 175.28.185.97 at 2023-02-10 06:57:00 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mList Load (0.7ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/lists_controller.rb:13:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering lists/show.html.erb within layouts/application
+  Rendered lists/show.html.erb within layouts/application (Duration: 0.6ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 19.4ms | Allocations: 4612)
+Completed 200 OK in 39ms (Views: 23.0ms | ActiveRecord: 1.3ms | Allocations: 11302)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 06:58:35 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 8.1ms | Allocations: 269)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms | Allocations: 1108)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 06:58:39 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 45)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 456)
+
+
+Started GET "/lists/1" for 175.28.185.97 at 2023-02-10 06:58:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/lists_controller.rb:13:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering lists/show.html.erb within layouts/application
+  Rendered lists/show.html.erb within layouts/application (Duration: 0.7ms | Allocations: 186)
+  Rendered layout layouts/application.html.erb (Duration: 4.6ms | Allocations: 2020)
+Completed 200 OK in 11ms (Views: 7.1ms | ActiveRecord: 0.1ms | Allocations: 3950)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:01:55 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.8ms | Allocations: 470)
+Completed 200 OK in 18ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:01:56 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.8ms | Allocations: 265)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 1219)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:02:10 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 461)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:09:40 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.8ms | Allocations: 470)
+Completed 200 OK in 20ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:09:41 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.3ms | Allocations: 265)
+Completed 200 OK in 13ms (Views: 11.6ms | ActiveRecord: 0.0ms | Allocations: 1220)
+
+
+Started GET "/lists/1/edit" for 175.28.185.97 at 2023-02-10 07:09:58 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/lists_controller.rb:21:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering lists/edit.html.erb within layouts/application
+  Rendered lists/edit.html.erb within layouts/application (Duration: 4.7ms | Allocations: 1456)
+  Rendered layout layouts/application.html.erb (Duration: 32.9ms | Allocations: 5808)
+Completed 200 OK in 65ms (Views: 38.4ms | ActiveRecord: 0.9ms | Allocations: 12498)
+
+
+Started PATCH "/lists/1" for 175.28.185.97 at 2023-02-10 07:10:05 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [PATCH] "/lists/1"):
+  
+Started GET "/lists/1/edit" for 175.28.185.97 at 2023-02-10 07:10:07 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#edit as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/lists_controller.rb:21:in `edit'
+  Rendering layout layouts/application.html.erb
+  Rendering lists/edit.html.erb within layouts/application
+  Rendered lists/edit.html.erb within layouts/application (Duration: 1.9ms | Allocations: 533)
+  Rendered layout layouts/application.html.erb (Duration: 8.2ms | Allocations: 2115)
+Completed 200 OK in 16ms (Views: 10.7ms | ActiveRecord: 0.1ms | Allocations: 3220)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:13:04 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.7ms | Allocations: 470)
+Completed 200 OK in 23ms (Views: 14.7ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:13:05 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.7ms | Allocations: 265)
+Completed 200 OK in 13ms (Views: 10.4ms | ActiveRecord: 0.0ms | Allocations: 1219)
+
+
+Started GET "/lists/1" for 175.28.185.97 at 2023-02-10 07:13:13 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/lists_controller.rb:13:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering lists/show.html.erb within layouts/application
+  Rendered lists/show.html.erb within layouts/application (Duration: 1.0ms | Allocations: 207)
+  Rendered layout layouts/application.html.erb (Duration: 22.9ms | Allocations: 4613)
+Completed 200 OK in 41ms (Views: 25.6ms | ActiveRecord: 0.6ms | Allocations: 11303)
+
+
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateActiveStorageTables (20230210071454)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (3.7ms)[0m  [1m[35mCREATE TABLE "active_storage_blobs" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "key" varchar NOT NULL, "filename" varchar NOT NULL, "content_type" varchar, "metadata" text, "service_name" varchar NOT NULL, "byte_size" bigint NOT NULL, "checksum" varchar NOT NULL, "created_at" datetime NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_active_storage_blobs_on_key" ON "active_storage_blobs" ("key")[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE TABLE "active_storage_attachments" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar NOT NULL, "record_type" varchar NOT NULL, "record_id" bigint NOT NULL, "blob_id" bigint NOT NULL, "created_at" datetime NOT NULL, CONSTRAINT "fk_rails_c3b3935057"
+FOREIGN KEY ("blob_id")
+  REFERENCES "active_storage_blobs" ("id")
+)[0m
+  [1m[35m (0.9ms)[0m  [1m[35mCREATE INDEX "index_active_storage_attachments_on_blob_id" ON "active_storage_attachments" ("blob_id")[0m
+  [1m[35m (1.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_active_storage_attachments_uniqueness" ON "active_storage_attachments" ("record_type", "record_id", "name", "blob_id")[0m
+  [1m[35m (0.6ms)[0m  [1m[35mCREATE TABLE "active_storage_variant_records" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "blob_id" bigint NOT NULL, "variation_digest" varchar NOT NULL, CONSTRAINT "fk_rails_993965df05"
+FOREIGN KEY ("blob_id")
+  REFERENCES "active_storage_blobs" ("id")
+)[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_active_storage_variant_records_uniqueness" ON "active_storage_variant_records" ("blob_id", "variation_digest")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (6.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20230210071454"]]
+  [1m[36mTRANSACTION (6.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:20:43 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 11.0ms | Allocations: 470)
+Completed 200 OK in 32ms (Views: 18.6ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:20:45 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.9ms | Allocations: 265)
+Completed 200 OK in 13ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 1219)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:20:55 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 46)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 461)
+
+
+Started GET "/lists" for 175.28.185.97 at 2023-02-10 07:20:59 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/index.html.erb within layouts/application
+  [1m[36mList Load (0.4ms)[0m  [1m[34mSELECT "lists".* FROM "lists"[0m
+  ↳ app/views/lists/index.html.erb:3
+  [1m[36mActiveStorage::Attachment Load (0.2ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "List"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/lists/index.html.erb:11
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 2], ["record_type", "List"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/lists/index.html.erb:11
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 3], ["record_type", "List"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/lists/index.html.erb:11
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 4], ["record_type", "List"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/lists/index.html.erb:11
+  Rendered lists/index.html.erb within layouts/application (Duration: 229.1ms | Allocations: 21644)
+  Rendered layout layouts/application.html.erb (Duration: 239.7ms | Allocations: 23509)
+Completed 200 OK in 259ms (Views: 241.2ms | ActiveRecord: 2.4ms | Allocations: 27034)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:22:36 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.2ms | Allocations: 470)
+Completed 200 OK in 21ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 3245)
+
+
+Started GET "/" for 175.28.185.97 at 2023-02-10 07:22:38 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/ec2-user/.rvm/gems/ruby-3.1.2/gems/railties-6.1.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 13.3ms | Allocations: 265)
+Completed 200 OK in 20ms (Views: 18.2ms | ActiveRecord: 0.0ms | Allocations: 2008)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-10 07:22:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 9.6ms | Allocations: 1463)
+  Rendered layout layouts/application.html.erb (Duration: 29.7ms | Allocations: 6060)
+Completed 200 OK in 44ms (Views: 33.1ms | ActiveRecord: 0.6ms | Allocations: 12148)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-10 07:22:44 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 2.0ms | Allocations: 464)
+  Rendered layout layouts/application.html.erb (Duration: 7.9ms | Allocations: 1937)
+Completed 200 OK in 22ms (Views: 21.6ms | ActiveRecord: 0.0ms | Allocations: 2427)
+
+
+Started POST "/lists" for 175.28.185.97 at 2023-02-10 07:22:47 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "list"=>{"title"=>"c", "body"=>""}, "commit"=>"投稿"}
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mList Create (3.9ms)[0m  [1m[32mINSERT INTO "lists" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "c"], ["body", ""], ["created_at", "2023-02-10 07:22:47.036576"], ["updated_at", "2023-02-10 07:22:47.036576"]]
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mTRANSACTION (10.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+Redirected to https://7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com/lists/5
+Completed 302 Found in 32ms (ActiveRecord: 14.3ms | Allocations: 5984)
+
+
+Started GET "/lists/5" for 175.28.185.97 at 2023-02-10 07:22:47 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mList Load (0.2ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/lists_controller.rb:13:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering lists/show.html.erb within layouts/application
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 5], ["record_type", "List"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/lists/show.html.erb:7
+  Rendered lists/show.html.erb within layouts/application (Duration: 44.1ms | Allocations: 6942)
+  Rendered layout layouts/application.html.erb (Duration: 49.8ms | Allocations: 8357)
+Completed 200 OK in 66ms (Views: 55.9ms | ActiveRecord: 0.7ms | Allocations: 10298)
+
+
+Started GET "/lists/new" for 175.28.185.97 at 2023-02-10 07:22:48 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering lists/new.html.erb within layouts/application
+  Rendered lists/new.html.erb within layouts/application (Duration: 1.7ms | Allocations: 479)
+  Rendered layout layouts/application.html.erb (Duration: 6.6ms | Allocations: 1953)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 2427)
+
+
+Started POST "/lists" for 175.28.185.97 at 2023-02-10 07:22:57 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "list"=>{"title"=>"c", "body"=>"cdc"}, "commit"=>"投稿"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mList Create (3.7ms)[0m  [1m[32mINSERT INTO "lists" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "c"], ["body", "cdc"], ["created_at", "2023-02-10 07:22:57.356243"], ["updated_at", "2023-02-10 07:22:57.356243"]]
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+  [1m[36mTRANSACTION (6.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/lists_controller.rb:8:in `create'
+Redirected to https://7caa91adb8314776992b06c191edf036.vfs.cloud9.ap-northeast-1.amazonaws.com/lists/6
+Completed 302 Found in 25ms (ActiveRecord: 10.0ms | Allocations: 4797)
+
+
+Started GET "/lists/6" for 175.28.185.97 at 2023-02-10 07:22:57 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by ListsController#show as HTML
+  Parameters: {"id"=>"6"}
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/lists_controller.rb:13:in `show'
+  Rendering layout layouts/application.html.erb
+  Rendering lists/show.html.erb within layouts/application
+  [1m[36mActiveStorage::Attachment Load (0.1ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 6], ["record_type", "List"], ["name", "image"], ["LIMIT", 1]]
+  ↳ app/views/lists/show.html.erb:7
+  Rendered lists/show.html.erb within layouts/application (Duration: 10.5ms | Allocations: 1630)
+  Rendered layout layouts/application.html.erb (Duration: 16.7ms | Allocations: 3012)
+Completed 200 OK in 21ms (Views: 18.2ms | ActiveRecord: 0.2ms | Allocations: 3979)
+
+
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mList Create (8.8ms)[0m  [1m[32mINSERT INTO "lists" ("title", "body", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "railsを学ぼう"], ["body", "rails cについて"], ["created_at", "2023-02-11 01:43:41.327512"], ["updated_at", "2023-02-11 01:43:41.327512"]]
+  [1m[36mTRANSACTION (5.2ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mList Load (0.2ms)[0m  [1m[34mSELECT "lists".* FROM "lists"[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mList Load (0.1ms)[0m  [1m[34mSELECT "lists".* FROM "lists" WHERE "lists"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveStorage::Attachment Load (0.6ms)[0m  [1m[34mSELECT "active_storage_attachments".* FROM "active_storage_attachments" WHERE "active_storage_attachments"."record_id" = ? AND "active_storage_attachments"."record_type" = ? AND "active_storage_attachments"."name" = ? LIMIT ?[0m  [["record_id", 1], ["record_type", "List"], ["name", "image"], ["LIMIT", 1]]
+  [1m[36mList Destroy (5.4ms)[0m  [1m[31mDELETE FROM "lists" WHERE "lists"."id" = ?[0m  [["id", 1]]
+  [1m[36mTRANSACTION (5.4ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/" for 175.28.185.97 at 2023-02-11 07:27:45 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+Zeitwerk::NameError (expected file /home/ec2-user/environment/bokkers1.1/app/helpers/root_helper.rb to define constant RootHelper, but didn't
+
+      raise Zeitwerk::NameError.new("expected file #{file} to define constant #{cpath}, but didn't", cref.last)
+      ^^^^^):
+  
+app/helpers/books_helper.rb:2:in `<main>'
+Started GET "/" for 175.28.185.97 at 2023-02-11 07:27:50 +0000
+Cannot render console from 175.28.185.97! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+Completed 500 Internal Server Error in 5ms (ActiveRecord: 0.0ms | Allocations: 1871)
+
+
+  
+Zeitwerk::NameError (expected file /home/ec2-user/environment/bokkers1.1/app/helpers/books_helper.rb to define constant BooksHelper, but didn't
+
+      raise Zeitwerk::NameError.new("expected file #{file} to define constant #{cpath}, but didn't", cref.last)
+      ^^^^^):
+  
+zeitwerk (2.6.6) lib/zeitwerk/loader/callbacks.rb:25:in `on_file_autoloaded'
+zeitwerk (2.6.6) lib/zeitwerk/kernel.rb:31:in `require'
+activesupport (6.1.7.2) lib/active_support/inflector/methods.rb:273:in `const_get'
+activesupport (6.1.7.2) lib/active_support/inflector/methods.rb:273:in `constantize'
+activesupport (6.1.7.2) lib/active_support/core_ext/string/inflections.rb:74:in `constantize'
+actionpack (6.1.7.2) lib/abstract_controller/helpers.rb:176:in `block in modules_for_helpers'
+actionpack (6.1.7.2) lib/abstract_controller/helpers.rb:169:in `map!'
+actionpack (6.1.7.2) lib/abstract_controller/helpers.rb:169:in `modules_for_helpers'
+actionpack (6.1.7.2) lib/action_controller/metal/helpers.rb:104:in `modules_for_helpers'
+actionpack (6.1.7.2) lib/abstract_controller/helpers.rb:147:in `helper'
+actionpack (6.1.7.2) lib/action_controller/railties/helpers.rb:19:in `inherited'
+actiontext (6.1.7.2) lib/action_text/engine.rb:53:in `initialize'
+actiontext (6.1.7.2) lib/action_text/engine.rb:53:in `new'
+actiontext (6.1.7.2) lib/action_text/engine.rb:53:in `block (2 levels) in <class:Engine>'
+activesupport (6.1.7.2) lib/active_support/lazy_load_hooks.rb:71:in `class_eval'
+activesupport (6.1.7.2) lib/active_support/lazy_load_hooks.rb:71:in `block in execute_hook'
+activesupport (6.1.7.2) lib/active_support/lazy_load_hooks.rb:61:in `with_execution_control'
+activesupport (6.1.7.2) lib/active_support/lazy_load_hooks.rb:66:in `execute_hook'
+activesupport (6.1.7.2) lib/active_support/lazy_load_hooks.rb:52:in `block in run_load_hooks'
+activesupport (6.1.7.2) lib/active_support/lazy_load_hooks.rb:51:in `each'
+activesupport (6.1.7.2) lib/active_support/lazy_load_hooks.rb:51:in `run_load_hooks'
+actiontext (6.1.7.2) lib/action_text/content.rb:128:in `<main>'
+bootsnap (1.16.0) lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:32:in `require'
+bootsnap (1.16.0) lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:32:in `require'
+zeitwerk (2.6.6) lib/zeitwerk/kernel.rb:38:in `require'
+actiontext (6.1.7.2) lib/action_text/engine.rb:59:in `block (4 levels) in <class:Engine>'
+activesupport (6.1.7.2) lib/active_support/callbacks.rb:126:in `instance_exec'
+activesupport (6.1.7.2) lib/active_support/callbacks.rb:126:in `block in run_callbacks'
+activesupport (6.1.7.2) lib/active_support/callbacks.rb:137:in `run_callbacks'
+actionpack (6.1.7.2) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (6.1.7.2) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (6.1.7.2) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (6.1.7.2) lib/active_support/notifications.rb:203:in `block in instrument'
+activesupport (6.1.7.2) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (6.1.7.2) lib/active_support/notifications.rb:203:in `instrument'
+actionpack (6.1.7.2) lib/action_controller/metal/instrumentation.rb:33:in `process_action'
+actionpack (6.1.7.2) lib/action_controller/metal/params_wrapper.rb:249:in `process_action'
+activerecord (6.1.7.2) lib/active_record/railties/controller_runtime.rb:27:in `process_action'
+actionpack (6.1.7.2) lib/abstract_controller/base.rb:165:in `process'
+actionview (6.1.7.2) lib/action_view/rendering.rb:39:in `process'
+actionpack (6.1.7.2) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.7.2) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.7.2) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.7.2) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.7.2) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.7.2) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.7.2) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.7.2) lib/action_dispatch/routing/route_set.rb:842:in `call'
+rack (2.2.6.2) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.6.2) lib/rack/etag.rb:27:in `call'
+rack (2.2.6.2) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.6.2) lib/rack/head.rb:12:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/http/permissions_policy.rb:22:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/http/content_security_policy.rb:19:in `call'
+rack (2.2.6.2) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.6.2) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/cookies.rb:697:in `call'
+activerecord (6.1.7.2) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.7.2) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+web-console (4.2.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.2.0) lib/web_console/middleware.rb:19:in `block in call'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.2.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.7.2) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.7.2) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.7.2) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.7.2) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.7.2) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.7.2) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.4.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.6.2) lib/rack/method_override.rb:24:in `call'
+rack (2.2.6.2) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.7.2) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.6.2) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.7.2) lib/action_dispatch/middleware/host_authorization.rb:142:in `call'
+rack-mini-profiler (2.3.4) lib/mini_profiler/profiler.rb:393:in `call'
+webpacker (5.4.4) lib/webpacker/dev_server_proxy.rb:25:in `perform_request'
+rack-proxy (0.7.6) lib/rack/proxy.rb:87:in `call'
+railties (6.1.7.2) lib/rails/engine.rb:539:in `call'
+puma (5.6.5) lib/puma/configuration.rb:252:in `call'
+puma (5.6.5) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.6.5) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.6.5) lib/puma/request.rb:76:in `handle_request'
+puma (5.6.5) lib/puma/server.rb:443:in `process_client'
+puma (5.6.5) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
